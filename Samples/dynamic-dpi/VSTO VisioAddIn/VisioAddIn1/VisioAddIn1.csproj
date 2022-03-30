@@ -242,7 +242,7 @@
     <ManifestKeyFile>VisioAddIn1_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>45D756D2902E1DD7A041AB80A05FB99026B2F3AF</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>F63AAC84A0884CDB0126C3CDEA991E36DF064B3E</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
     <DebugSymbols>true</DebugSymbols>

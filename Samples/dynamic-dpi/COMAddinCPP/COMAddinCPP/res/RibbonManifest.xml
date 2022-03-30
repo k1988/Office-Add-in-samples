@@ -1,0 +1,16 @@
+<customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui" loadImage="GetImage" onLoad="UILoad" >
+  <ribbon>
+    <tabs>
+      <tab id="Bing" label="Bing">
+        <group id="group_test" label="Test Group">
+          <button id="LoginButton"  
+                  supertip="NotLogged" 
+                  getLabel="GetLabel" 
+                  image="204" 
+                  size="large" 
+                  onAction="LoginButtonClicked"/>
+        </group>
+      </tab>
+    </tabs>
+  </ribbon>
+</customUI>

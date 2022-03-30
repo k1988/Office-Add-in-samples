@@ -240,7 +240,7 @@
     <ManifestKeyFile>WordAddIn1_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>3CEDB51531F58F17D5542DEA21CCF3175D5F8E20</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>F63AAC84A0884CDB0126C3CDEA991E36DF064B3E</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
     <ApplicationIcon>office.ico</ApplicationIcon>

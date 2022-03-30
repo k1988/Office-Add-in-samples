@@ -248,7 +248,7 @@
     <ManifestKeyFile>OutlookAddIn1_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>A701E04DFEA4C1A226812E2C216134572C8E1C8C</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>F63AAC84A0884CDB0126C3CDEA991E36DF064B3E</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
     <DebugSymbols>true</DebugSymbols>

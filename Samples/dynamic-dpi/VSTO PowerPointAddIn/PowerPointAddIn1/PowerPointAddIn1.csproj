@@ -242,7 +242,7 @@
     <ManifestKeyFile>PowerPointAddIn1_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>3EBBB3D1C5A9409C5FFF8C2B638DB659102F96E5</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>F63AAC84A0884CDB0126C3CDEA991E36DF064B3E</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
     <DebugSymbols>true</DebugSymbols>

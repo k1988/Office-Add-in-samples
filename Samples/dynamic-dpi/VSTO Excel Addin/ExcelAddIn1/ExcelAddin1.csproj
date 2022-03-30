@@ -255,7 +255,7 @@
     <ManifestKeyFile>ExcelAddin1_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>806B250DF1210E00062BA2D3DC6AAB764151925E</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>F63AAC84A0884CDB0126C3CDEA991E36DF064B3E</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
     <DebugSymbols>true</DebugSymbols>

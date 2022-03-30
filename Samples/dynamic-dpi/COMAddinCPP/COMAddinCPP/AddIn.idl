@@ -20,6 +20,22 @@ interface IATLControl : IDispatch
 };
 
 [
+	object,
+	uuid(5E43BA64-B310-404B-8D24-F795D5D2F5CF),
+	dual,
+	nonextensible,
+	helpstring("IRibbonCallback Interface"),
+	pointer_default(unique)
+]
+interface IRibbonCallback : IDispatch {
+	[id(1)] HRESULT UILoad(IDispatch* ribbon);
+	[id(2)] HRESULT GetImage([in] BSTR* pbstrImageId, [out, retval] IPictureDisp** ppdispImage);
+	[id(3)] HRESULT GetLabel([in] IDispatch* pControl, [out, retval] BSTR* pbstrLabel);
+	[id(4)] HRESULT LoginButtonClicked(IDispatch* ribbonControl);
+};
+
+
+[
 	uuid(7B2B42E3-BA6D-41FE-97A9-94F473C1B2A6),
 	version(1.0),
 	helpstring("COMAddinCPP 1.0 Type Library")

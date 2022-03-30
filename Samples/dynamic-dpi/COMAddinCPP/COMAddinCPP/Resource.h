@@ -8,6 +8,8 @@
 #define IDD_ATLCONTROLDIALOG            103
 #define IDB_ATLCONTROL                  106
 #define IDR_ATLCONTROL                  107
+#define IDR_XML1                        201
+#define IDB_PNG1                       204
 
 // Next default values for new objects
 // 
